@@ -25249,10 +25249,10 @@ return B.c.ar(a,r)===47},
 c_(){var s,r=new A.a5p($,new A.Nt(A.a([],t.lC),new A.BA(),new A.BA(),new A.BA()),$,new A.a5e(),!1),q=A.aN6()
 r.QS$=q
 r.QT$=new A.a2P(A.a([],t.Hh))
-q.pI$="http://127.0.0.1:8000/api/v1/"
+q.pI$="https://api.studentmitra.in/api/v1/"
 q=q.b
 q===$&&A.b()
-s=B.N.gjw().cY("admin:1234")
+s=B.N.gjw().cY("admin:@@4444@@")
 q.n(0,"authorization","Basic "+B.hK.gjw().cY(s))
 return r},
 bT(a){var s=a.J(t.w).f
