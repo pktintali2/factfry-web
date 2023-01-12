@@ -1,11 +1,11 @@
 {
-    "name": "project_swipe",
-    "short_name": "project_swipe",
+    "name": "Fact Jano",
+    "short_name": "FactJano",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Stay informed and entertained with FactJano, Get a wide range of fascinating facts right to your fingertips. FactJano app is available for mobile and web",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
